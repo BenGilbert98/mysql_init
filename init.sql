@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS flaskdb;
+
+USE flaskdb;
+
+CREATE TABLE IF NOT EXISTS names (name VARCHAR(255));
